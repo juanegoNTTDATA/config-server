@@ -2,8 +2,3 @@ server:
   port: 8084
 some:
   value: Valor por defecto.
-Management:
-	endpoints:
-		web:
-			exposure:
-				include: '*'
