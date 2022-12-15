@@ -1,0 +1,4 @@
+server:
+  port: 8084
+some:
+  value: Valor por defecto.
