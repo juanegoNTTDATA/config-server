@@ -8,7 +8,7 @@ spring:
       server:
         git:
           uri: https://github.com/juanegoNTTDATA/bootCamp-ConfigServer.git
-        default-label: main
+        default-label: master
         search-paths:
           - '*service*'
 
