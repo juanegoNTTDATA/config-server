@@ -1,4 +1,4 @@
 server:
   port: 8082
 some:
-  value: Valor del servidor en test.
+  value: Valor del servidor en test modificado.
